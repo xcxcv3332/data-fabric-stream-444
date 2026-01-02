@@ -1,0 +1,1 @@
+const service_xwvl = <T>(args: T): T => { return args; };
